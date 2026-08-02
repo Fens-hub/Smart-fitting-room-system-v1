@@ -38,3 +38,5 @@ The system uses time-based logic (`millis()`) to track the last detected motion 
 
 ## Circuit Diagram
 <img width="952" height="431" alt="smart room v1" src="https://github.com/user-attachments/assets/d4ba5a11-be4b-48b9-b94d-1df142e0242e" />
+<img width="959" height="433" alt="LED ON" src="https://github.com/user-attachments/assets/4a62253b-577e-4e16-84da-e67cc83837ce" />
+<img width="959" height="436" alt="LED OFF" src="https://github.com/user-attachments/assets/ba6d3dff-47c3-4990-a1cd-15f189116410" />
